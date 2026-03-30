@@ -92,7 +92,7 @@ const WhatIDo = () => {
               <p>
                 Conduct qualitative and quantitative research to uncover user
                 needs, pain points, and behaviours. Run usability tests,
-                interviews, and analyze data to inform product decisions.
+                interviews,analyze data.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
@@ -103,7 +103,7 @@ const WhatIDo = () => {
                 <div className="what-tags">Surveys</div>
                 <div className="what-tags">Figma</div>
                 <div className="what-tags">FigJam</div>
-                <div className="what-tags">Analytics</div>
+                {/* <div className="what-tags">Analytics</div> */}
               </div>
               <div className="what-arrow"></div>
             </div>
